@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ItMan7145 / @itman07
+- 👋 Hi, I’m @ItMan7145 / @itman07 / @arslanku
 - 👀 I’m interested in Arduino, Python and C++
 - 🌱 I’m currently learning C
 - 📫 How to reach me itman7144@gmail.com
