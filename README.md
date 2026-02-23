@@ -61,8 +61,10 @@ Here are some of the projects I'm most proud of:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arslanku&show_icons=true&theme=tokyonight&hide_border=true" alt="Arslan's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanku&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+  <!-- Самая популярная карточка с языками от работающего сервиса -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arslanku&theme=default" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arslanku&theme=default" alt="Top Languages by Commit"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslanku&theme=default" alt="Top Languages by Commit"/>
 </p>
 
 ---
